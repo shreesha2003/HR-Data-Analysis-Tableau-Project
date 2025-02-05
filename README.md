@@ -5,8 +5,8 @@
 This Tableau dashboard provides an in-depth analysis of an HR dataset, offering key insights into employee demographics, attrition rates, job satisfaction, and department-wise trends. The visualization components help stakeholders make data-driven decisions about workforce management and employee retention.
 
 ## Dashboard 
-![Screenshot 2025-02-05 022037](https://github.com/user-attachments/assets/677cfdb6-740f-4c90-896d-ff5190af3377)
-![Screenshot 2025-02-05 022051](https://github.com/user-attachments/assets/95fdddbb-1b99-426e-af47-8b20fe1d16d3)
+![Dashboard 1](https://github.com/user-attachments/assets/ee4ff9e5-2d5c-46f1-aaf5-5f3db4033420)
+
 
 ## Key Insights
 
